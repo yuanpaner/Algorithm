@@ -15,7 +15,3 @@ for studying notes.
 486. Predict the Winner  
 375. Guess Number Higher or Lower II  
 464. Can I Win  
-
-branch yuan content
-
-branch master contents
